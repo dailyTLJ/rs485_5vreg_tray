@@ -1,1 +1,1 @@
-﻿﻿# rs485_5vreg_trayRS485 transceiver PCB that has footprints to plug in a TeensyLC and a BNO055 IMU.![front](rs485_5vreg_tray_short_v2_front.png)![back](rs485_5vreg_tray_short_v2_back.png)
+﻿# rs485_5vreg_trayRS485 transceiver PCB with a 12V/5V voltage regulator, with footprints to plug in a TeensyLC and a BNO055 IMU (both Stemma and the old version, that's why there are two lines with reversed SDA/SCL pins).![front](rs485_5vreg_tray_short_v2_front.png)![back](rs485_5vreg_tray_short_v2_back.png)
