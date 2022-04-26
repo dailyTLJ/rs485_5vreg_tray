@@ -1,0 +1,1 @@
+﻿﻿# rs485_5vreg_trayRS485 transceiver PCB that has footprints to plug in a TeensyLC and a BNO055 IMU.![front](rs485_5vreg_tray_short_v2_front.png)![back](rs485_5vreg_tray_short_v2_back.png)

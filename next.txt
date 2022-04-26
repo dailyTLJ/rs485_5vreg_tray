@@ -1,0 +1,6 @@
+next:
+line up header pins, make easier for soldering
+make it easier for usb plugin? rotate teensy?
+
+
+
