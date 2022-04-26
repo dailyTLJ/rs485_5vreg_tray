@@ -1,0 +1,11 @@
+Designator,MPN,Qty,Link
+RS485,SP3072EEN-L/TR,1,
+RECV,LTST-C150KRKT,1,https://www.digikey.ca/en/products/detail/lite-on-inc/LTST-C150KRKT/386761
+SEND,LTST-C150KGKT,1,https://www.digikey.ca/en/products/detail/lite-on-inc/LTST-C150KGKT/365085
+"C1,C2",GMK316BJ106KL-T,2,https://www.digikey.ca/en/products/detail/taiyo-yuden/GMK316BJ106KL-T/2217972
+C3,CC1206KRX7R9BB104,1,https://www.digikey.ca/en/products/detail/yageo/CC1206KRX7R9BB104/302913
+TVSDIODE,D5V0L2B3SO-7,1,https://www.digikey.ca/en/products/detail/diodes-incorporated/D5V0L2B3SO-7/2918772
+L1,CB2518T6R8M,1,https://www.digikey.ca/en/products/detail/taiyo-yuden/CB2518T6R8M/2002803
+"R1,R2",RC1206FR-0775RL,2,https://www.digikey.ca/en/products/detail/yageo/RC1206FR-0775RL/729095
+TERM,RC1206JR-07120RL,1,https://www.digikey.ca/en/products/detail/yageo/RC1206JR-07120RL/729215?s=N4IgTCBcDaIEoGECMYAMA2AUnAtKg7CqnADIgC6AvkA
+,,,

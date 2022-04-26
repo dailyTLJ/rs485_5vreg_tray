@@ -1,0 +1,17 @@
+### Module positions - created on 04/26/22 10:23:48 ###
+### Printed by Pcbnew version pcbnew (5.1.6)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                        PosX       PosY       Rot  Side
+C1        10uF,_35V  C_1206_3216Metric           76.7050  -110.4900    0.0000  top
+C2        10uF,_35V  C_1206_3216Metric           76.8350  -114.3000    0.0000  top
+C3        0.1uF      C_1206_3216Metric           99.0600  -108.5850    0.0000  top
+L1        6.8uH      L_1206_3216Metric           71.7550  -112.3950   90.0000  top
+R1        R_US       R_1206_3216Metric           62.8650  -104.1400  180.0000  top
+R2        R_US       R_1206_3216Metric           68.5800  -121.2850    0.0000  top
+RECV      LED        LED_1206_3216Metric         68.5800  -104.1400    0.0000  top
+RS485     MAX3072E   SOIC-8_3.9x4.9mm_P1.27mm    99.0600  -113.6650  180.0000  top
+SEND      LED        LED_1206_3216Metric         62.8650  -121.2850    0.0000  top
+TERM      120        R_1206_3216Metric           92.0750  -113.0300  270.0000  top
+TVSDIODE  TVSDIODE   SOT-23-3                    87.2150  -113.0300    0.0000  top
+## End
